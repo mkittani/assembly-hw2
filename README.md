@@ -1,1 +1,1 @@
-# assembly-hw2
+this is an inline assembly source code solution for an assignment that asks for the factorial of an integer and calculate the sum of an array and occurence of each element and print if the sum is odd or even.
